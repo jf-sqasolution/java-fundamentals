@@ -3,5 +3,6 @@
 
 * JDK 7
 * Java Application
+* JUnit
 
 [greg bouimer](http://sqasolution.com)
