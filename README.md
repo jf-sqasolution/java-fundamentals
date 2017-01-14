@@ -1,8 +1,9 @@
-###Hello You Project
-#Java Application
+###Java Fundamentals
+#Project which practices on fundamental Java concepts
 
-* JDK 7
+**JDK 7**
 * Java Application
 * JUnit
+* Maven
 
-[greg bouimer](http://sqasolution.com)
+[JF Nepton](http://sqasolution.com)
